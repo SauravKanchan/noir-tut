@@ -1,0 +1,6 @@
+[submodule "day2_zk_panagram/contracts/lib/forge-std"]
+	path = day2_zk_panagram/contracts/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
+[submodule "day2_zk_panagram/contracts/lib/openzeppelin-contracts"]
+	path = day2_zk_panagram/contracts/lib/openzeppelin-contracts
+	url = https://github.com/OpenZeppelin/openzeppelin-contracts
