@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@aztec/bb.js": "^2.1.9",
     "@aztec/noir-noir_js": "^2.1.9",
     "ethers": "^6.16.0"
   }
